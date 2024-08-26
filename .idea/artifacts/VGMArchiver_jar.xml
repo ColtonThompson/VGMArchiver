@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="VGMArchiver:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VGMArchiver_jar</output-path>
+    <root id="archive" name="VGMArchiver.jar">
+      <element id="module-output" name="VGMArchiver" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.18.1/jsoup-1.18.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
